@@ -16,3 +16,9 @@ function MyApp()
   };
   
 }
+$(document).ready(handler;)
+$(handler);
+$(function()	{
+	window.app = new MyApp();
+	window.app.start();
+})
